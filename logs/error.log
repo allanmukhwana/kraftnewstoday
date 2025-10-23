@@ -1,0 +1,6 @@
+[2025-10-23 11:19:11] Database connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[2025-10-23 11:21:05] Database connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[2025-10-23 11:31:26] Bedrock API error (HTTP 404): {"message":"Model use case details have not been submitted for this account. Fill out the Anthropic use case details form before using the model. If you have already filled out the form, try again in 15 minutes."}
+[2025-10-23 11:31:28] Bedrock API error (HTTP 404): {"message":"Model use case details have not been submitted for this account. Fill out the Anthropic use case details form before using the model. If you have already filled out the form, try again in 15 minutes."}
+[2025-10-23 11:31:30] Bedrock API error (HTTP 404): {"message":"Model use case details have not been submitted for this account. Fill out the Anthropic use case details form before using the model. If you have already filled out the form, try again in 15 minutes."}
+[2025-10-23 11:31:30] Bedrock API call failed, using mock response
