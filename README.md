@@ -1,6 +1,6 @@
 # Kraft News Today - AWS AI Agent Hackathon Submission
 
-## Elevator Pitch (200 characters max)
+## Elevator Pitch
 **An AI Agent that autonomously discovers, analyzes, and delivers personalized industry news insights—helping professionals stay ahead in their craft with intelligent analysis.**
 
 ---
