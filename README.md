@@ -2,7 +2,6 @@
 
 ## Elevator Pitch (200 characters max)
 **An AI Agent that autonomously discovers, analyzes, and delivers personalized industry news insights—helping professionals stay ahead in their craft with intelligent analysis.**
-*(159 characters)*
 
 ---
 
